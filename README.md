@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,50:2b0000,100:000000&height=200&section=header&text=Benjamín%20Cáceres&fontSize=44&fontColor=e8e8e8&fontAlignY=38&animation=fadeIn&desc=Ingeniería%20en%20Informática%20%7C%20Blue%20Team%20%7C%20Infraestructura&descAlignY=58&descSize=15&descColor=9a9a9a" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=20&duration=3800&pause=1200&color=B5B5B5&center=true&vCenter=true&width=650&lines=Pocos+proyectos%2C+bien+hechos.;Documentación+clara+%2B+consistencia.;Seguridad%2C+Linux+y+automatización." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?size=20&duration=3800&pause=1200&color=B5B5B5&center=true&vCenter=true&width=650&lines=Pocos+proyectos%2C+bien+hechos.;Documentación+clara+%2B+consistencia.;Seguridad%2C+Linux+y+automatización." alt="Typing SVG" />
 </a>
 
 <br>
@@ -132,7 +132,7 @@ Laboratorios y ejercicios de detección y respuesta ante incidentes.
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Benjamin16caceres&show_icons=true&hide_border=true&bg_color=00000000&title_color=B5B5B5&text_color=8a8a8a&icon_color=7a1f1f&border_radius=8"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin16caceres&layout=compact&hide_border=true&bg_color=00000000&title_color=B5B5B5&text_color=8a8a8a&border_radius=8"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Benjamin16caceres&hide_border=true&background=00000000&ring=7a1f1f&fire=7a1f1f&currStreakLabel=B5B5B5&sideLabels=8a8a8a&dates=6a6a6a&border_radius=8" />
+<img src="https://streak-stats.demolab.com/?user=Benjamin16caceres&hide_border=true&background=00000000&ring=7a1f1f&fire=7a1f1f&currStreakLabel=B5B5B5&sideLabels=8a8a8a&dates=6a6a6a&border_radius=8" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin16caceres&bg_color=00000000&color=8a8a8a&line=7a1f1f&point=E0E0E0&hide_border=true&area=true&area_color=2b0000" width="95%"/>
 
