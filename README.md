@@ -95,10 +95,18 @@ Laboratorios y ejercicios de detección y respuesta ante incidentes.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Benjamin16caceres&show_icons=true&hide_border=true&bg_color=00000000&title_color=B5B5B5&text_color=8a8a8a&icon_color=7a1f1f&border_radius=8"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin16caceres&layout=compact&hide_border=true&bg_color=00000000&title_color=B5B5B5&text_color=8a8a8a&border_radius=8"/>
+<table>
+<tr>
+<td><img src="https://github-readme-stats-nu-snowy-37.vercel.app/api?username=Benjamin16caceres&show_icons=true&hide_border=true&bg_color=00000000&title_color=B5B5B5&text_color=8a8a8a&icon_color=7a1f1f&border_radius=8"/></td>
+<td><img src="https://github-readme-stats-nu-snowy-37.vercel.app/api/top-langs/?username=Benjamin16caceres&layout=compact&hide_border=true&bg_color=00000000&title_color=B5B5B5&text_color=8a8a8a&border_radius=8"/></td>
+</tr>
+</table>
 
 <img src="https://streak-stats.demolab.com/?user=Benjamin16caceres&hide_border=true&background=00000000&ring=7a1f1f&fire=7a1f1f&currStreakLabel=B5B5B5&sideLabels=8a8a8a&dates=6a6a6a&border_radius=8" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Benjamin16caceres&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=4" />
 
 <br>
 
