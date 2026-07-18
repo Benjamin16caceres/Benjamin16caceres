@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,50:2b0000,100:000000&height=200&section=header&text=Benjamín%20Cáceres&fontSize=44&fontColor=e8e8e8&fontAlignY=38&animation=fadeIn&desc=Ingeniería%20en%20Informática%20%7C%20Blue%20Team%20%7C%20Infraestructura&descAlignY=58&descSize=15&descColor=9a9a9a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,50:2b0000,100:000000&height=230&section=header&text=Benjamín%20Cáceres&fontSize=58&fontColor=e8e8e8&fontAlignY=35&animation=fadeIn&desc=Ingeniería%20en%20Informática%20%7C%20Blue%20Team%20%7C%20Infraestructura&descAlignY=58&descSize=20&descColor=b5b5b5" width="100%"/>
 
-<sub><i>Pocos proyectos, bien hechos · Documentación clara · Consistencia por sobre volumen</i></sub>
+<h3><i>Pocos proyectos, bien hechos · Documentación clara · Consistencia por sobre volumen</i></h3>
 
 <br><br>
 
@@ -13,13 +13,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2b0000,100:000000&height=3" width="100%"/>
 
-## 👤 Sobre mí
+## Sobre mí
 
 Estudiante de Ingeniería en Informática enfocado en construir una base sólida en **ciberseguridad defensiva (Blue Team)**, **administración de sistemas** y **automatización**. Prefiero un repositorio pequeño y bien cuidado antes que treinta proyectos incompletos: cada repo que publico tiene documentación clara, estructura consistente e historial de commits con sentido.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2b0000,100:000000&height=3" width="100%"/>
 
-## 🛠️ Stack técnico
+## Stack técnico
 
 <div align="center">
 
@@ -36,13 +36,13 @@ Estudiante de Ingeniería en Informática enfocado en construir una base sólida
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2b0000,100:000000&height=3" width="100%"/>
 
-## 📌 Proyectos destacados
+## Proyectos destacados
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-### 🎬 KinoPredict
+### KinoPredict
 Proyecto estrella — análisis y predicción de datos.
 
 `Python` `SQL`
@@ -52,7 +52,7 @@ Proyecto estrella — análisis y predicción de datos.
 </td>
 <td width="33%" valign="top">
 
-### 🖥️ HomeLab
+### HomeLab
 Infraestructura de laboratorio personal para practicar Linux, redes y virtualización.
 
 `Linux` `Docker` `Networking`
@@ -62,7 +62,7 @@ Infraestructura de laboratorio personal para practicar Linux, redes y virtualiza
 </td>
 <td width="33%" valign="top">
 
-### 🔵 BlueTeam-Labs
+### BlueTeam-Labs
 Laboratorios y ejercicios de detección y respuesta ante incidentes.
 
 `SIEM` `Threat Detection`
@@ -79,11 +79,11 @@ Laboratorios y ejercicios de detección y respuesta ante incidentes.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2b0000,100:000000&height=3" width="100%"/>
 
-## 📚 Actualmente aprendiendo
+## Actualmente aprendiendo
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=windows&theme=dark" />
+<img src="https://img.shields.io/badge/Windows%20Server-1a1a1a?style=flat-square&logo=windows&logoColor=E0E0E0" />
 ![Splunk](https://img.shields.io/badge/Splunk-1a1a1a?style=flat-square&logo=splunk&logoColor=E0E0E0)
 ![Wazuh](https://img.shields.io/badge/Wazuh-1a1a1a?style=flat-square&logo=wazuh&logoColor=E0E0E0)
 
@@ -91,14 +91,14 @@ Laboratorios y ejercicios de detección y respuesta ante incidentes.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2b0000,100:000000&height=3" width="100%"/>
 
-## 📊 Actividad
+## Actividad
 
 <div align="center">
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats-thetinky.vercel.app/api?username=Benjamin16caceres&show_icons=true&hide_border=true&bg_color=00000000&title_color=B5B5B5&text_color=8a8a8a&icon_color=7a1f1f&border_radius=8"/></td>
-<td><img src="https://github-readme-stats-thetinky.vercel.app/api/top-langs/?username=Benjamin16caceres&layout=compact&hide_border=true&bg_color=00000000&title_color=B5B5B5&text_color=8a8a8a&border_radius=8"/></td>
+<td><img src="https://github-stats-extended.vercel.app/api?username=Benjamin16caceres&show_icons=true&hide_border=true&bg_color=00000000&title_color=B5B5B5&text_color=8a8a8a&icon_color=7a1f1f&border_radius=8"/></td>
+<td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Benjamin16caceres&layout=compact&hide_border=true&bg_color=00000000&title_color=B5B5B5&text_color=8a8a8a&border_radius=8"/></td>
 </tr>
 </table>
 
