@@ -79,15 +79,10 @@ Laboratorios y ejercicios de detección y respuesta ante incidentes.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2b0000,100:000000&height=3" width="100%"/>
 
-## Actualmente aprendiendo
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Windows%20Server-1a1a1a?style=flat-square&logo=windows&logoColor=E0E0E0" />
-![Splunk](https://img.shields.io/badge/Splunk-1a1a1a?style=flat-square&logo=splunk&logoColor=E0E0E0)
-![Wazuh](https://img.shields.io/badge/Wazuh-1a1a1a?style=flat-square&logo=wazuh&logoColor=E0E0E0)
-
-</div>
+> [!NOTE]
+> **Actualmente aprendiendo**
+>
+> ![Windows Server](https://img.shields.io/badge/Windows%20Server-1a1a1a?style=flat-square&logo=windows&logoColor=E0E0E0) ![Splunk](https://img.shields.io/badge/Splunk-1a1a1a?style=flat-square&logo=splunk&logoColor=E0E0E0) ![Wazuh](https://img.shields.io/badge/Wazuh-1a1a1a?style=flat-square&logo=wazuh&logoColor=E0E0E0)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2b0000,100:000000&height=3" width="100%"/>
 
@@ -106,7 +101,7 @@ Laboratorios y ejercicios de detección y respuesta ante incidentes.
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Benjamin16caceres&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=4" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Benjamin16caceres&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=4" />
 
 <br>
 
