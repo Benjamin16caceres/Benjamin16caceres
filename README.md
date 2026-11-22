@@ -1,18 +1,28 @@
-![Benjamín Cáceres · Estudiante de Ingeniería en Informática](perfil.png)
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./perfil-estatico.png">
+  <img alt="Benjamín Cáceres · Estudiante de Ingeniería en Informática" src="./perfil-animado.gif">
+</picture>
 
 Me interesan el **desarrollo web**, la **automatización** y la **ciberseguridad defensiva (Blue Team)**.
 
-[Correo](mailto:benjitatareas17@gmail.com) · [YouTube](https://www.youtube.com/@TheTinky)
+[**Proyecto principal**](#necro-intranet) · [**Credenciales**](#certificados-y-credenciales) · [YouTube](https://www.youtube.com/@TheTinky) · [Correo](mailto:benjitatareas17@gmail.com)
 
-## Proyecto destacado
+## Necro Intranet
 
-### [Feria Libre Digital](https://github.com/Benjamin16caceres/proyecto-yaleni)
+**Mi proyecto principal** es una intranet estudiantil personal. Trabajo en la interfaz web y en la API REST con autenticación de usuarios.
 
-Proyecto colaborativo para ferias libres. Los vecinos pueden buscar productos y armar su carrito. Los emprendedores cuentan con un panel para gestionar su catálogo, precios y stock.
+![Tecnologías de Necro Intranet. La interfaz usa React y Vite, la API usa Django REST Framework y el acceso usa JWT.](necro-intranet.png)
 
-- **Frontend** · `React` `Vite` `JavaScript` `HTML` `CSS`
-- **Backend** · `Node.js` `Express` `JSON`
-- **Herramientas de desarrollo** · `Git` `GitHub` `Docker Compose`
+**Frontend** · `React` `Vite`  
+**Backend** · `Python` `Django REST Framework` `JWT`
+
+## Otros proyectos
+
+### [Feria Libre Digital ↗](https://github.com/Benjamin16caceres/proyecto-yaleni)
+
+Proyecto colaborativo para ferias libres, con catálogo y carrito para vecinos y un panel de precios y stock para emprendedores.
+
+`React` `Vite` `JavaScript` `Node.js` `Express` `Docker Compose`
 
 ## Certificados y credenciales
 
