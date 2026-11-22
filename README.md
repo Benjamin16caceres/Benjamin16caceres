@@ -32,8 +32,8 @@ Proyecto colaborativo para ferias libres, con catálogo y carrito para vecinos y
 
 Cursos ofrecidos por **INACAP, sede Puente Alto**, a través de **Cisco Networking Academy**.
 
-- [**Conciencia sobre seguridad y protección digital**](https://www.credly.com/badges/4b1315b2-bc69-4565-af46-c4c32ab7d05c/public_url) · 20 de octubre de 2026
 - [**Introducción a la IA moderna**](https://www.credly.com/badges/17e753fc-216f-4162-bf4c-1cf93e17830f/public_url) · 15 de septiembre de 2026
+- [**Conciencia sobre seguridad y protección digital**](https://www.credly.com/badges/4b1315b2-bc69-4565-af46-c4c32ab7d05c/public_url) · 20 de octubre de 2026
 
 **Amazon Web Services Training and Certification**
 
